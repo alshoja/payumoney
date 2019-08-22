@@ -1,4 +1,4 @@
-# Payumoney Gateway with Codeignitor
+# Payumoney Gateway Integration with Codeignitor
 
 ### Prerequisites
 
