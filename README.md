@@ -23,7 +23,7 @@ git clone https://github.com/alshoja/payumoney.git
 	'password' => 'YOUR_PASSWORD',
 	'database' => 'technely_pepper',
 	
-	## Built With
+## Built With
 
 * [Codeignitor](https://github.com/alshoja/Codeignitor-configured) - Download Preconfigured Codeignitor from here.
 * [PayuMoney](https://www.payumoney.com) Gateway
