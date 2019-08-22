@@ -10,7 +10,7 @@ PHP 5.x higher versions
 1. Clone the project
 
 ```
-git clone https://github.com/alshoja/Income-Expence-Manager.git
+git clone https://github.com/alshoja/payumoney.git
 ```
 2.Give the baseurl in Application/config/config.php
 
